@@ -1,0 +1,14 @@
+
+# gitignore for Altcoinomy's landing page -- quinoah
+
+.htaccess
+
+*.php
+
+PHPMailer/
+html_*
+
+*.html
+!index.html
+!fixed.html
+

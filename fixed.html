@@ -247,7 +247,7 @@ $(function() {
                 "<td>" + (new Date(data[id].date_of_values)).toLocaleString() + "</td>" +
                 "<td>" + (data[id].etheur  || "-")  + "</td>" +
                 "<td>" + (data[id].btceur  || "-")  + "</td>" +
-                "<td>" + (data[id].eurusdt || "-")  + "</td>" +
+                "<td>" + (parseFloat(data[id].eurusdt).toFixed(3) || "-")  + "</td>" +
                 "<td>" + (data[id].eurusd  || "-")  + "</td>" +
                 "<td>" + (data[id].eurchf  || "-")  + "</td>" +
                 "</tr>" 

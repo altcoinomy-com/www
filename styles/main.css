@@ -3018,34 +3018,66 @@ nav.sticky .hamburger {
     }
 }
 
-.partners__partner__image__logo__elrond {
-    background-image: url(../images/partners_logo_elrond.svg);
+.partners__partner__image__logo__openfiz {
+    background-image: url(../images/partners_logo_openfiz.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__openfiz {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__openfiz {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__openfiz {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__openfiz {
+        height: 160px
+    }
+}
+
+.partners__partner__image__logo__leonod {
+    background-image: url(../images/partners_logo_leonod.png);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover
 }
 
-@media (min-width: 1701px) {
-    .partners__partner__image__logo__elrond {
-        height: 105px
-    }
-}
-
 @media (max-width: 1700px) {
-    .partners__partner__image__logo__elrond {
+    .partners__partner__image__logo__leonod {
           width: 85px;
     }
 }
 
 @media (min-width: 1701px) {
-    .partners__partner__image__logo__elrond {
+    .partners__partner__image__logo__leonod {
         width: 105px;
     }
 }
 
 @media (max-width: 1700px) {
-    .partners__partner__image__logo__elrond {
+    .partners__partner__image__logo__leonod {
         height: 85px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__leonod {
+        height: 105px
     }
 }
 
@@ -3451,6 +3483,263 @@ nav.sticky .hamburger {
 @media (min-width: 1701px) {
     .partners__partner__image__logo__mme {
         height: 50px
+    }
+}
+
+.partners__partner__image__logo__elrond {
+    background-image: url(../images/partners_logo_elrond.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__elrond {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__elrond {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__elrond {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__elrond {
+        height: 160px
+    }
+}
+
+.partners__partner__image__logo__radix {
+    background-image: url(../images/partners_logo_radix.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.8);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__radix {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__radix {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__radix {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__radix {
+        height: 160px
+    }
+}
+
+.partners__partner__image__logo__liquidapps {
+    background-image: url(../images/partners_logo_liquidapps.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__liquidapps {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__liquidapps {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__liquidapps {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__liquidapps {
+        height: 160px
+    }
+}
+
+.partners__partner__image__logo__arianee {
+    background-image: url(../images/partners_logo_arianee.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__arianee {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__arianee {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__arianee {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__arianee {
+        height: 160px
+    }
+}
+
+.partners__partner__image__logo__lightstreams {
+    background-image: url(../images/partners_logo_lightstreams.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__lightstreams {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__lightstreams {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__lightstreams {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__lightstreams {
+        height: 160px
+    }
+}
+
+.partners__partner__image__logo__chintai {
+    background-image: url(../images/partners_logo_chintai.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__chintai {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__chintai {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__chintai {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__chintai {
+        height: 160px
+    }
+}
+
+.partners__partner__image__logo__stakehound {
+    background-image: url(../images/partners_logo_stakehound.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__stakehound {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__stakehound {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__stakehound {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__stakehound {
+        height: 160px
+    }
+}
+
+
+.partners__partner__image__logo__colu {
+    background-image: url(../images/partners_logo_colu.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__colu {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__colu {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__colu {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__colu {
+        height: 160px
     }
 }
 

@@ -11,4 +11,4 @@ html_*
 *.html
 !index.html
 !fixed.html
-
+!eth2-node-medalla.html

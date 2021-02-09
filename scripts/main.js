@@ -99,7 +99,7 @@ $(window).on("load", function () {
         },
         Afsaneh: {
             name: "Afsaneh Heyat",
-            role: "Head of ICO onboarding",
+            role: "Chief Product Officer",
             text: "Afsaneh has over 15 years of experience in structuring and syndicating leverage buyouts as well as having run her own origination platform from 2004-2007, focused on sourcing deals in emerging markets. In addition, she has in-depth knowledge and experience in areas such as fine wines, collectible watches, and fine art."
         },
         Marie: {
@@ -120,7 +120,7 @@ $(window).on("load", function () {
         Noe: {
             name: "Noé​ ​Curtz",
             role: "Chief Technology Officer",
-            text: "Noé has been involved in cryptocurrencies since the early days. At Altcoinomy, he is responsible for designing of internal crypto processes with best-practices security protocols. Noé holds a PhD in Physics from the University of Geneva."
+            text: "Noé has been involved in cryptocurrencies since the early days. At Altcoinomy, he is the head of technology and innovation. Noé holds a PhD in Physics from the University of Geneva."
         },
         Adi: {
             name: "Adi​ ​Somech",

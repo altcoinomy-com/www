@@ -3710,6 +3710,37 @@ nav.sticky .hamburger {
     }
 }
 
+.partners__partner__image__logo__olyseum {
+    background-image: url(../images/partners_logo_olyseum.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(.6);
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__olyseum {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__olyseum {
+      width: 160px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .partners__partner__image__logo__olyseum {
+        height: 190px
+    }
+}
+
+@media (min-width: 1701px) {
+    .partners__partner__image__logo__olyseum {
+        height: 160px
+    }
+}
 
 .partners__partner__image__logo__colu {
     background-image: url(../images/partners_logo_colu.png);
